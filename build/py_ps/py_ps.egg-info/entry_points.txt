@@ -1,0 +1,3 @@
+[console_scripts]
+talker = py_ps.publisher_member_function:main
+

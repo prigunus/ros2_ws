@@ -1,0 +1,36 @@
+[0.912s] Invoking command in '/home/kcm/ros2_ws/src/py_ps': PYTHONPATH=/home/kcm/ros2_ws/build/py_ps/prefix_override:/home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_ps build --build-base /home/kcm/ros2_ws/build/py_ps/build install --record /home/kcm/ros2_ws/build/py_ps/install.log --single-version-externally-managed install_data
+[1.309s] running egg_info
+[1.311s] creating ../../build/py_ps/py_ps.egg-info
+[1.312s] writing ../../build/py_ps/py_ps.egg-info/PKG-INFO
+[1.313s] writing dependency_links to ../../build/py_ps/py_ps.egg-info/dependency_links.txt
+[1.316s] writing entry points to ../../build/py_ps/py_ps.egg-info/entry_points.txt
+[1.318s] writing requirements to ../../build/py_ps/py_ps.egg-info/requires.txt
+[1.319s] writing top-level names to ../../build/py_ps/py_ps.egg-info/top_level.txt
+[1.321s] writing manifest file '../../build/py_ps/py_ps.egg-info/SOURCES.txt'
+[1.325s] reading manifest file '../../build/py_ps/py_ps.egg-info/SOURCES.txt'
+[1.327s] writing manifest file '../../build/py_ps/py_ps.egg-info/SOURCES.txt'
+[1.328s] running build
+[1.329s] running build_py
+[1.332s] creating /home/kcm/ros2_ws/build/py_ps/build
+[1.332s] creating /home/kcm/ros2_ws/build/py_ps/build/lib
+[1.334s] creating /home/kcm/ros2_ws/build/py_ps/build/lib/py_ps
+[1.335s] copying py_ps/__init__.py -> /home/kcm/ros2_ws/build/py_ps/build/lib/py_ps
+[1.336s] copying py_ps/publisher_member_function.py -> /home/kcm/ros2_ws/build/py_ps/build/lib/py_ps
+[1.338s] running install
+[1.340s] running install_lib
+[1.344s] creating /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps
+[1.345s] copying /home/kcm/ros2_ws/build/py_ps/build/lib/py_ps/__init__.py -> /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps
+[1.346s] copying /home/kcm/ros2_ws/build/py_ps/build/lib/py_ps/publisher_member_function.py -> /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps
+[1.348s] byte-compiling /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps/__init__.py to __init__.cpython-310.pyc
+[1.349s] byte-compiling /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[1.351s] running install_data
+[1.353s] creating /home/kcm/ros2_ws/install/py_ps/share/ament_index
+[1.353s] creating /home/kcm/ros2_ws/install/py_ps/share/ament_index/resource_index
+[1.354s] creating /home/kcm/ros2_ws/install/py_ps/share/ament_index/resource_index/packages
+[1.354s] copying resource/py_ps -> /home/kcm/ros2_ws/install/py_ps/share/ament_index/resource_index/packages
+[1.355s] copying package.xml -> /home/kcm/ros2_ws/install/py_ps/share/py_ps
+[1.356s] running install_egg_info
+[1.358s] Copying ../../build/py_ps/py_ps.egg-info to /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps-0.0.0-py3.10.egg-info
+[1.361s] running install_scripts
+[1.397s] writing list of installed files to '/home/kcm/ros2_ws/build/py_ps/install.log'
+[1.424s] Invoked command in '/home/kcm/ros2_ws/src/py_ps' returned '0': PYTHONPATH=/home/kcm/ros2_ws/build/py_ps/prefix_override:/home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_ps build --build-base /home/kcm/ros2_ws/build/py_ps/build install --record /home/kcm/ros2_ws/build/py_ps/install.log --single-version-externally-managed install_data

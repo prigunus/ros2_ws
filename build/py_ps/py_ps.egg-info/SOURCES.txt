@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/py_ps/py_ps.egg-info/PKG-INFO
+../../build/py_ps/py_ps.egg-info/SOURCES.txt
+../../build/py_ps/py_ps.egg-info/dependency_links.txt
+../../build/py_ps/py_ps.egg-info/entry_points.txt
+../../build/py_ps/py_ps.egg-info/requires.txt
+../../build/py_ps/py_ps.egg-info/top_level.txt
+../../build/py_ps/py_ps.egg-info/zip-safe
+py_ps/__init__.py
+py_ps/publisher_member_function.py
+resource/py_ps
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

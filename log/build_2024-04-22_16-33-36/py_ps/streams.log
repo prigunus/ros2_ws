@@ -1,0 +1,21 @@
+[0.823s] Invoking command in '/home/kcm/ros2_ws/src/py_ps': PYTHONPATH=/home/kcm/ros2_ws/build/py_ps/prefix_override:/home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_ps build --build-base /home/kcm/ros2_ws/build/py_ps/build install --record /home/kcm/ros2_ws/build/py_ps/install.log --single-version-externally-managed install_data
+[1.150s] running egg_info
+[1.151s] writing ../../build/py_ps/py_ps.egg-info/PKG-INFO
+[1.153s] writing dependency_links to ../../build/py_ps/py_ps.egg-info/dependency_links.txt
+[1.157s] writing entry points to ../../build/py_ps/py_ps.egg-info/entry_points.txt
+[1.171s] writing requirements to ../../build/py_ps/py_ps.egg-info/requires.txt
+[1.173s] writing top-level names to ../../build/py_ps/py_ps.egg-info/top_level.txt
+[1.175s] reading manifest file '../../build/py_ps/py_ps.egg-info/SOURCES.txt'
+[1.177s] writing manifest file '../../build/py_ps/py_ps.egg-info/SOURCES.txt'
+[1.177s] running build
+[1.178s] running build_py
+[1.179s] running install
+[1.179s] running install_lib
+[1.181s] running install_data
+[1.182s] running install_egg_info
+[1.184s] removing '/home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps-0.0.0-py3.10.egg-info' (and everything under it)
+[1.191s] Copying ../../build/py_ps/py_ps.egg-info to /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps-0.0.0-py3.10.egg-info
+[1.197s] running install_scripts
+[1.230s] Installing talker script to /home/kcm/ros2_ws/install/py_ps/lib/py_ps
+[1.233s] writing list of installed files to '/home/kcm/ros2_ws/build/py_ps/install.log'
+[1.269s] Invoked command in '/home/kcm/ros2_ws/src/py_ps' returned '0': PYTHONPATH=/home/kcm/ros2_ws/build/py_ps/prefix_override:/home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_ps build --build-base /home/kcm/ros2_ws/build/py_ps/build install --record /home/kcm/ros2_ws/build/py_ps/install.log --single-version-externally-managed install_data

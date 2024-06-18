@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/py_ps/py_ps.egg-info/PKG-INFO
+writing dependency_links to ../../build/py_ps/py_ps.egg-info/dependency_links.txt
+writing entry points to ../../build/py_ps/py_ps.egg-info/entry_points.txt
+writing requirements to ../../build/py_ps/py_ps.egg-info/requires.txt
+writing top-level names to ../../build/py_ps/py_ps.egg-info/top_level.txt
+reading manifest file '../../build/py_ps/py_ps.egg-info/SOURCES.txt'
+writing manifest file '../../build/py_ps/py_ps.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/py_ps/py_ps.egg-info to /home/kcm/ros2_ws/install/py_ps/lib/python3.10/site-packages/py_ps-0.0.0-py3.10.egg-info
+running install_scripts
+Installing talker script to /home/kcm/ros2_ws/install/py_ps/lib/py_ps
+writing list of installed files to '/home/kcm/ros2_ws/build/py_ps/install.log'

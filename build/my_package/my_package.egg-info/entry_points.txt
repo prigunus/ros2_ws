@@ -1,0 +1,3 @@
+[console_scripts]
+ellbow = my_package.my_node:main
+

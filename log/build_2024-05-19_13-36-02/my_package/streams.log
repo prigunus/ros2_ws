@@ -1,0 +1,21 @@
+[2.432s] Invoking command in '/home/kcm/ros2_ws/src/my_package': PYTHONPATH=/home/kcm/ros2_ws/build/my_package/prefix_override:/home/kcm/ros2_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/kcm/ros2_ws/build/my_package/build install --record /home/kcm/ros2_ws/build/my_package/install.log --single-version-externally-managed install_data
+[3.010s] running egg_info
+[3.011s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[3.013s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[3.014s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[3.016s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[3.017s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[3.020s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[3.022s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[3.024s] running build
+[3.024s] running build_py
+[3.025s] running install
+[3.027s] running install_lib
+[3.029s] running install_data
+[3.029s] running install_egg_info
+[3.032s] removing '/home/kcm/ros2_ws/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info' (and everything under it)
+[3.040s] Copying ../../build/my_package/my_package.egg-info to /home/kcm/ros2_ws/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[3.078s] running install_scripts
+[3.100s] Installing ellbow script to /home/kcm/ros2_ws/install/my_package/lib/my_package
+[3.102s] writing list of installed files to '/home/kcm/ros2_ws/build/my_package/install.log'
+[3.156s] Invoked command in '/home/kcm/ros2_ws/src/my_package' returned '0': PYTHONPATH=/home/kcm/ros2_ws/build/my_package/prefix_override:/home/kcm/ros2_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/kcm/ros2_ws/build/my_package/build install --record /home/kcm/ros2_ws/build/my_package/install.log --single-version-externally-managed install_data
